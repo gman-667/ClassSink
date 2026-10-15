@@ -18,5 +18,7 @@ Tap on [Google](https://www.google.com) to get to unblocked browser,
 * [Snapchat](https://Snapchat.com)
 * [Bluesky](https://bsky.com)
 * [Discord](https://discord.com)
-* 
+* [Reddit](https://reddit.com)
+* [Audiomack](https://audiomack.com)
+* [Spotify](https://open.spotify.com)
 * [Now.gg](https://now.gg)
