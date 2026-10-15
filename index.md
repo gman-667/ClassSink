@@ -28,4 +28,4 @@ Whatever you do with this app is subject to your schools online internet policy 
 * [Pandora](https://pandora.com)
 * [Steam (doesn't let you run the games)](https://store.steampowered.com)
 * [Now.gg](https://now.gg)
-# Requested sites 
+# Requested sites ([https://forms.gle/YghfUZphRv6sk5p36](https://forms.gle/YghfUZphRv6sk5p36))
